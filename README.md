@@ -11,7 +11,7 @@
 
 <p align="left"> <a href="https://twitter.com/jj30261726" target="blank"><img src="https://img.shields.io/twitter/follow/jj30261726?logo=twitter&style=for-the-badge" alt="jj30261726" /></a> </p>
 
-- I'm Working on my Bot, "Wumpus Support" **Wumpus**
+- I'm Working on my Bot, "Wumpus Support" [Wumpus](https://discord.com/oauth2/authorize?client_id=845242302083104790&scope=bot&permissions=2146958847)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
