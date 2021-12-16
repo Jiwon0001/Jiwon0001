@@ -28,3 +28,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jiwon0001&show_icons=true&locale=en" alt="jiwon0001" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jiwon0001&" alt="jiwon0001" /></p>
+
+
+[![Discord Bots](https://top.gg/api/widget/896349421208494100.svg)(https://top.gg/bot/896349421208494100)
